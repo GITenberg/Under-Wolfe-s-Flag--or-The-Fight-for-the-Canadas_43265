@@ -1,0 +1,24 @@
+_repo: Under-Wolfe-s-Flag--or-The-Fight-for-the-Canadas_43265
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43265-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Walker, Rowland
+    gutenberg_agent_id: '42096'
+    url: http://www.gutenberg.org/2009/agents/42096
+description: ''
+gutenberg_issued: '2013-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43265'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Seven Years'' War, 1756-1763 -- Juvenile fiction'
+- !lcc 'PZ'
+title: Under Wolfe's Flag; or, The Fight for the Canadas
+url: http://www.gutenberg.org/ebooks/43265
