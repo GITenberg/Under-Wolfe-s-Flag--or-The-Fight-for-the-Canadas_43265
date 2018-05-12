@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '42096'
     url: http://www.gutenberg.org/2009/agents/42096
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43265#Under-Wolfe-s-Flag--or-The-Fight-for-the-Canadas
 gutenberg_issued: '2013-07-20'
 gutenberg_type: Text
 identifiers:
